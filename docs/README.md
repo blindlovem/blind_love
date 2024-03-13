@@ -41,7 +41,6 @@ https://github.com/gui
 历史记录查询：提供各种记录的查询
 
 用户可以选择删除某些记录
-![思维导图](https://github.com/Isyuyu6/blind_love/assets/119307642/c4a4b2d6-c104-49f4-86d2-c46e6faa854b)
 
-![](https://p.ananas.chaoxing.com/star3/1203_1311Q50/2832ba70bdf2e04668cb83243ee37127.png?rw=1203&rh=1311&_fileSize=233820&_orientation=1)
+![思维导图](https://github.com/blindlovem/blind_love/assets/119307642/1bf1af93-d307-4954-9846-b083db6e5e91)
 
