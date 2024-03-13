@@ -2,7 +2,7 @@
 WeChatMiniProgram
 #项目名称：恋爱盲盒
 
-小组的 GitHub 地址：https://github.com/Isyuyu6/blind_love.git
+小组的 GitHub 地址：https://github.com/blindlovem
 
 小组成员、分工及 GitHub 主页：
 姓名
