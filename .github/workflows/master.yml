@@ -1,0 +1,31 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+# jobs就是这套工作流程了
+jobs:
+  
+  # build相当于<job_id>,可以自定义
+  build:
+
+    # 指定该job_id下的运行环境
+    runs-on: ubuntu-latest
+    
+    # 制定运行步骤
+    steps:
+    # 先将仓库的代码checkout到环境中，github提供了checkout的方法，只需要我们加上这条即可
+    - uses: actions/checkout@v1
+    # 为接下来所执行的shell命名，可省略
+    - name: executing
+      run: 
+        # 指定所要运行的shell
+        cat LoveappApplicationTests.java
+
