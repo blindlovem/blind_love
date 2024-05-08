@@ -21,6 +21,6 @@ jobs:
     - name: executing
       run: 
         # 指定所要运行的shell
-        cat LoveappApplicationTests.java
+        cat loveapp\src\test\java\com\example\loveapp\LoveappApplicationTests.java
         
 
