@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d361c4e-0826-4f62-9480-ad69c8cf6e29" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PEXmI2OvMI57MtmKsJt8TWZNKH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Javacode/loveapp",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
+    "spring.configuration.checksum": "3fe8b64f3a401278714973c235698b9a",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Javacode\springboot\loveapp\src\main\java\com\example\loveapp\mapper\xml" />
+      <recent name="D:\Javacode\springboot\loveapp\src\main\java\com\example\loveapp\service\impl" />
+      <recent name="D:\Javacode\springboot\loveapp\src\main\java\com\example\loveapp\service" />
+      <recent name="D:\Javacode\springboot\loveapp\src\main\java\com\example\loveapp\mapper" />
+      <recent name="D:\Javacode\springboot\loveapp\src\main\java\com\example\loveapp\entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.loveapp.service.impl" />
+      <recent name="com.example.loveapp.service" />
+      <recent name="com.example.loveapp.mapper" />
+      <recent name="com.example.loveapp.entity" />
+      <recent name="com.example.loveapp.controller" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LoveappApplication">
+    <configuration name="BaZi" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.loveapp.util.bazi.fuben.BaZi" />
+      <module name="loveapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.loveapp.util.bazi.fuben.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetBazi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.loveapp.util.bazi.GetBazi" />
+      <module name="loveapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.loveapp.util.bazi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuozhuangTanZao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.loveapp.util.bazi.fuben.LuozhuangTanZao" />
+      <module name="loveapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.loveapp.util.bazi.fuben.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LuozhuangshenshaHehun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.loveapp.util.bazi.fuben.LuozhuangshenshaHehun" />
+      <module name="loveapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.loveapp.util.bazi.fuben.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WuXingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.loveapp.util.bazi.details.WuXingApp" />
+      <module name="loveapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.loveapp.util.bazi.fuben.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoveappApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="loveapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.loveapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.loveapp" />
+      <option name="MAIN_CLASS_NAME" value="com.example.loveapp.LoveappApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoveappApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="loveapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.loveapp.LoveappApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LuozhuangshenshaHehun" />
+        <item itemvalue="Application.LuozhuangTanZao" />
+        <item itemvalue="Application.GetBazi" />
+        <item itemvalue="JUnit.LoveappApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d361c4e-0826-4f62-9480-ad69c8cf6e29" name="Changes" comment="" />
+      <created>1683023373605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683023373605</updated>
+      <workItem from="1683023375008" duration="3925000" />
+      <workItem from="1683027461341" duration="3212000" />
+      <workItem from="1683089025383" duration="10829000" />
+      <workItem from="1683118413142" duration="2557000" />
+      <workItem from="1683160411809" duration="1797000" />
+      <workItem from="1683166075928" duration="6443000" />
+      <workItem from="1683176688588" duration="5824000" />
+      <workItem from="1683202665925" duration="1987000" />
+      <workItem from="1683254349757" duration="1996000" />
+      <workItem from="1683265543752" duration="6695000" />
+      <workItem from="1683333692768" duration="1143000" />
+      <workItem from="1683368650912" duration="6144000" />
+      <workItem from="1683427503339" duration="139000" />
+      <workItem from="1683633859418" duration="536000" />
+      <workItem from="1683974024005" duration="3679000" />
+      <workItem from="1684029425016" duration="1790000" />
+      <workItem from="1684066061245" duration="3590000" />
+      <workItem from="1684151055684" duration="3939000" />
+      <workItem from="1684218982030" duration="3956000" />
+      <workItem from="1684232317385" duration="5669000" />
+      <workItem from="1684370570641" duration="1925000" />
+      <workItem from="1684375593317" duration="6395000" />
+      <workItem from="1684461901791" duration="3314000" />
+      <workItem from="1684469142520" duration="3672000" />
+      <workItem from="1684633598926" duration="4979000" />
+      <workItem from="1684741976795" duration="1484000" />
+      <workItem from="1684751580363" duration="5389000" />
+      <workItem from="1684758177800" duration="159000" />
+      <workItem from="1684758354109" duration="1315000" />
+      <workItem from="1684765053402" duration="126000" />
+      <workItem from="1684801418393" duration="4336000" />
+      <workItem from="1684818627504" duration="8122000" />
+      <workItem from="1684836682449" duration="5628000" />
+      <workItem from="1684933152249" duration="1321000" />
+      <workItem from="1684939550559" duration="208000" />
+      <workItem from="1684979291714" duration="5124000" />
+      <workItem from="1684990101752" duration="8954000" />
+      <workItem from="1685006831920" duration="1758000" />
+      <workItem from="1685010045035" duration="1214000" />
+      <workItem from="1685015930887" duration="3541000" />
+      <workItem from="1685068002313" duration="4851000" />
+      <workItem from="1685079576321" duration="8044000" />
+      <workItem from="1685095697615" duration="5957000" />
+      <workItem from="1685153978729" duration="2900000" />
+      <workItem from="1685161847600" duration="641000" />
+      <workItem from="1685173471945" duration="889000" />
+      <workItem from="1685174463653" duration="136000" />
+      <workItem from="1685174929265" duration="2577000" />
+      <workItem from="1685183703181" duration="6480000" />
+      <workItem from="1685237922175" duration="14216000" />
+      <workItem from="1685277384515" duration="3132000" />
+      <workItem from="1685324136061" duration="6555000" />
+      <workItem from="1685353306513" duration="8447000" />
+      <workItem from="1685373914162" duration="3001000" />
+      <workItem from="1685406437915" duration="1940000" />
+      <workItem from="1685421184259" duration="5433000" />
+      <workItem from="1685440579860" duration="211000" />
+      <workItem from="1685442164834" duration="1212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试act" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试act" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

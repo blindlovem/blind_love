@@ -1,0 +1,22 @@
+server:
+  port: 80
+#  address: 10.61.142.151
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://localhost:3306/db_loveapp?serverTimezone=UTC
+    username: root
+    password: LXYlxy12345
+
+
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 10MB
+      max-request-size: 10MB
+      file-size-threshold: 1MB
+
+file:
+  upload-dir: D:/Javacode/springboot/upload_folder
+

@@ -1,0 +1,15 @@
+@Service
+public class AdvertisementService {
+
+    @Autowired
+    private AdvertisementRepository advertisementRepository;
+
+    @Transactional
+    public void increaseClickCount(Long adId) {
+        Advertisement advertisement = advertisementRepository.findById(adId);
+        if (advertisement != null) {
+            advertisement.setClickCount(advertisement.getClickCount() + 1);
+            advertisementRepository.save(advertisement);
+        }
+    }
+}
